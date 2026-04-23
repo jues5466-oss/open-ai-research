@@ -26,3 +26,14 @@
   - `testing/` - api-tester, accessibility-auditor, performance-benchmarker
   - `engineering/` - code-reviewer, senior-developer, software-architect
 
+
+---
+
+### browser-harness
+- **URL:** https://github.com/browser-use/browser-harness
+- **用途:** Self-healing browser harness，讓 LLM 能完成任何瀏覽器任務
+- **Stars:** 5.4k
+- **語言:** Python
+- **備註:** 可整合到 Playwright skill，加強 browser automation 能力
+- **特色:** 自動修復瀏覽器狀態，適合複雜任務執行
+
