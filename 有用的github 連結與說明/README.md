@@ -29,11 +29,18 @@
 
 ---
 
-### browser-harness
-- **URL:** https://github.com/browser-use/browser-harness
-- **用途:** Self-healing browser harness，讓 LLM 能完成任何瀏覽器任務
-- **Stars:** 5.4k
-- **語言:** Python
-- **備註:** 可整合到 Playwright skill，加強 browser automation 能力
-- **特色:** 自動修復瀏覽器狀態，適合複雜任務執行
+### hermes-agent-cases
+- **URL:** https://gaskhuang.github.io/hermes-agent-cases/
+- **用途:** Hermes Agent 成功案例收集，99 個真實使用情境（股票交易、多代理監控、Discord、Webhook 等）
+- **Stars:** N/A (網站)
+- **語言:** 網頁應用
+- **備註:** 涵蓋 stock trading、Discord webhook、多 Agent 協作、看門狗監控等情境，可作為個人 Workflow 參考範本
+- **精選案例:**
+  - `#07` - Polymarket 四層平行市場分析（訂單簿+鏈上+新聞+倉位）
+  - `#08` - 自學天氣交易機器人，48 小時獲利 116%
+  - `#05` - 用 Hermes 當其他 Agent 的看門狗（監控 OpenClaw）
+  - `#06` - 每日跨平台 AI 研究簡報自動分發到 Discord/Slack/Notion
+  - `#69` - 從 OpenClaw 換到 Hermes，再也不回頭
+
+---
 
