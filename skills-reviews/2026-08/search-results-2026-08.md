@@ -1,8 +1,7 @@
 # 2026-08 Hermes Skills 搜尋原始結果
 
 ## 搜尋目標
-- 方向1：GitHub Trending — 找 hermes-agent 相關 repo 的 star 增速
-- 方向2：社群討論監控 — X/Reddit 上 Hermes 相關熱門討論
+- GitHub Trending — 找 hermes-agent 相關 repo 的 star 增速
 
 ---
 
@@ -89,12 +88,7 @@
 
 ---
 
-## 方向2：社群討論（X/Reddit）❌ 部分失敗
 
-- Exa 查詢失敗，無直接結果
-- Star 增速可作為社群關注度的代理指標
-
----
 
 ## 安裝建議優先順序（已評估）
 
